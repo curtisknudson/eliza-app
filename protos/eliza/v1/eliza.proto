@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package eliza.v1;
+
+service ElizaService {
+    rpc Talk(TalkRequest) returns (TalkResponse);
+}
+
+message TalkRequest{
+    string sentence = 1;
+}
+
+message TalkResponse {
+    string sentence = 1;
+}
