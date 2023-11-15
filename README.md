@@ -3,9 +3,9 @@
 
 ## Protos
 
-- Demonstrates the effectives usage of proto buffers and grpc using the buf library
-- Generates types for Typescript for client side usage
-- Api backward compatibility and versioning. 
+- Demonstrates the effective usage of Protocol Buffers and gRPC using the buf library
+- Generates Typescript types for client side usage
+- API backward compatibility and versioning. 
 
 ## React
 - Object Oriented Programming concepts with Adapter and Mediator
@@ -13,4 +13,4 @@
 
 ## Go
 - Robust knowledge of server side code
-- Demonstration of Struct knowledge, Cors and API foundation.
+- Demonstration of Struct knowledge, CORS and API foundation.
